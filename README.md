@@ -1,0 +1,2 @@
+# HelloDjangogirls
+pierwszy projekt
